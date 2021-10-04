@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgneR81
 - 👀 I’m interested in UX design
-- 🌱 I’m currently learning HTML, css, sass, javascript. node. webpack
+- 🌱 I’m currently learning HTML, css, sass, javascript, node, webpack, PHP, LARAVEL, PHPMyAdmin
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me here..
 
